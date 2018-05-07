@@ -1,0 +1,10 @@
+.popup {
+	border: 1px solid red;
+	width: 400px;
+	margin: 10px auto;
+	padding: 15px;
+}
+.title {
+	font-size: 15px;
+}
+

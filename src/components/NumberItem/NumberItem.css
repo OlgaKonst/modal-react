@@ -1,0 +1,18 @@
+.number-item {
+	display: flex;
+	text-align: center;
+
+}
+input {
+	width: 30px;
+}
+.closebtn {
+	width: 42px;
+	height: 42px;
+	border-radius: 50%;
+	background-color: #fce4ec;
+	margin: 0;
+}
+svg.crisscroos {
+	fill: #c62828;
+}

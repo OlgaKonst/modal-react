@@ -1,0 +1,15 @@
+.form-numbers {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: start;
+}
+.number-item {
+	display: flex;
+	flex-direction: row;
+	padding: 10px 0;
+}
+.add-btn {
+	margin-bottom: 30px;
+	padding-left: 0px;
+}
